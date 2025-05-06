@@ -18,7 +18,7 @@ To install and run AdminUI locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/chandramohan0/adminui.git
+git clone https://github.com/MrPC7/adminui.git
 ```
 
 2. Install dependencies:
