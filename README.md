@@ -2,6 +2,15 @@
 
 AdminUI is a responsive and customizable admin panel built using the React library for admin to see and delete users. The users is provided via an API. It provides an easy-to-use interface for managing various aspects of an application or website, including various features as follows:-
 
+## Tech Stack
+
+- **Frontend:** React
+- **Language:** JavaScript (ES6+)
+- **Styling:** CSS (plain `.css` files)
+- **Tooling & Build:** Create React App, Node.js, npm
+- **Testing:** Jest and React Testing Library
+- **Output:** Static production build in the `build/` folder
+
 ## Required Features for AdminUI Challenge:
   
   * Column titles is displayed in bold and larger font size compared to the entries to make them stand out and easily distinguishable.
@@ -10,6 +19,7 @@ AdminUI is a responsive and customizable admin panel built using the React libra
   * Pagination buttons is displayed at the bottom of the table. The pagination will update based on the search/filtering applied to the table. Each page will contain 10 rows, and the pagination buttons will only show the number of pages required based on the available data in the table.
   * Users can select one or multiple rows by clicking on the checkbox provided on the left side of each row. The selected row(s) will be highlighted with a grayish background color, and users can delete the selected rows using the 'Delete Selected' button located at the bottom left corner of the table.
   * A checkbox is placed on the top left corner of the table that will select or deselect all the displayed rows on the current page. This checkbox will not apply to all 50 rows, only the ten rows displayed on the current page.
+
 
 ## Installation
 
